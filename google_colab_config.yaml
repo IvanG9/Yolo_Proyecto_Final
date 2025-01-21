@@ -1,0 +1,5 @@
+train: /content/gdrive/My Drive/ProyectosComputerVision/Proyecto_Final/images/train
+val: /content/gdrive/My Drive/ProyectosComputerVision/Proyecto_Final/images/validation
+
+names: 
+  0: Telefono

@@ -1,0 +1,9 @@
+path: C:\Users\Ivan\Documents\IA\Programació d'Intel·ligència Artificial\Programas\UD04_ComputerVision\YOLO_PROYECTO_FINAL\data
+
+train: images/train
+val: images/validation
+
+# Classes
+names:
+  - Telefono
+
